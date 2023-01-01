@@ -112,7 +112,7 @@
     {
       "bundleIdentifier": "com.ciderapp.webremote",
       "developerName": "Cider Team",
-      "downloadURL": "https://github.com/SillyDerps/altstore-source/raw/main/cider-remote.ipa",
+      "downloadURL": "https://github.com/SillyDerps/altstore-source/releases/download/release/cider-remote.ipa",
       "iconURL": "https://cdn.discordapp.com/attachments/912441248298696775/935348932949725234/Cider-Full.png",
       "localizedDescription": "Our remote app for our Windows, Linux, and macOS app Cider. Note: This app requires Cider, Our open source and community oriented Apple Music client.",
       "name": "Cider Remote",
